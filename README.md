@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-<img src="img/Screenshot(77).png" width="auto">
+<img src="img/Screenshot (77).png" width="auto">
 
 <img src="img/Screenshot (78).png" width="auto">
 
